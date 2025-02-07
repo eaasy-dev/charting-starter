@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "apexcharts": "^3.35.3",
+    "c3": "^0.7.20",
     "html2canvas": "^1.4.1"
   }
 }
